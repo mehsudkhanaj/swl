@@ -1,0 +1,16 @@
+.bg-yellow{
+    background-color: red;
+    color: white;
+}
+#seconddiv{
+    color: aqua;
+}
+.jimi{
+    color: aqua;
+    background-color: black;
+}
+.jimi:hover{
+    cursor: pointer;
+    color: blue;
+
+}

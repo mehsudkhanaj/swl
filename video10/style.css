@@ -1,0 +1,21 @@
+canvas {
+    border: 1px solid black;
+    border-color: red;
+    border-radius: 40px;
+    
+}
+canvas:hover {
+    border: 1px solid black;
+    transform: translateX(340px);
+}
+q{
+    color: red;
+}
+blockquote{
+    color: aqua;
+}
+blockquote:hover{
+    color: brown;
+    transform: rotateX('360');
+    transform: rotate3d(360);
+}
