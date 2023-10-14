@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    
+}
+    
+
+h1{
+    background-color: red;
+    
+    border: 2px solid black;
+    border-radius: 40px;
+    box-sizing: border-box;
+    
+}
+h2{
+    background-color: blueviolet;
+    display: block;
+    border: 2px solid black;
+    border-radius: 40px;
+    
+}
+.facebook{
+    color: blue;
+}
+.facebook:hover{
+    color: blueviolet;
+}
+.youtube{
+    color: red;
+}
+.Instagram{
+    color: brown;
+}
