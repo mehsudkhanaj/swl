@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Open+Sans:wght@300;600&display=swap');
+
+p{
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-weight: 700;
+    font-style: italic;
+    text-decoration: underline; */
+    font-size: 40px;
+    line-height: 4;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
