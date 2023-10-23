@@ -1,0 +1,9 @@
+nav ul li{
+    list-style: devanagari;
+    background-color: #b93333;
+    list-style-position: inside;
+    border: 2px solid black ;
+    /* list-style-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Z3jqc2ta3ohCY3zWBneDD58I8JQolS3T0vk1FlJbuTQUUtJ"); */
+    list-style-type: "🤣";
+    /* list-style: disc; */ 
+}
