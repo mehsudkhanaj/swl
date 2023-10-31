@@ -5,11 +5,13 @@ body {
     padding: 45px;
 }
 
+
 * {
     margin: 0;
     padding: 0;
 
 }
+
 
 .card {
     background-color: white;
@@ -19,6 +21,7 @@ body {
     padding: 0 0 34px 0;
 
 }
+
 
 .image {
     padding: 5px;
@@ -56,10 +59,12 @@ body {
     border-radius: 7px;
     font-size: 12px;
 }
+
 .button{
     text-align: center;
 
 }
+
 .button button{
     padding:7px 9px;
     border-radius: 15px;
@@ -69,5 +74,4 @@ body {
     margin-top: 7px;
     border: none;
     font-weight: bold;
-
 }
