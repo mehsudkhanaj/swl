@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Open+Sans:wght@300;600&family=Poppins:wght@200;300;700&display=swap');
+
+body {
+    background-color: gray;
+    padding: 45px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.card {
+    background-color: white;
+    width: 198px;
+    height: 600px;
+    border-radius: 7px;
+    padding: 0 0 34px 0;
+
+}
+
+.image {
+    padding: 5px;
+
+}
+
+.image img {
+    border-radius: 7px;
+}
+
+.content h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.content {
+    padding:5px 13px;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.content p {
+    padding: 13px;
+    color: gray;
+
+}
+
+.capsules {
+    padding: 0 34px;
+
+}
+
+.capsules span {
+    border: 2px solid rgb(107, 86, 86);
+    padding: 1px 4px;
+    border-radius: 7px;
+    font-size: 12px;
+}
+.button{
+    text-align: center;
+
+}
+.button button{
+    padding:7px 9px;
+    border-radius: 15px;
+    background-color: rgb(173, 173, 226);
+    color :darkblue;
+    font-size: 10px;
+    margin-top: 7px;
+    border: none;
+    font-weight: bold;
+
+}
