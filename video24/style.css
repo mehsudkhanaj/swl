@@ -75,3 +75,6 @@ body {
     border: none;
     font-weight: bold;
 }
+.button button:hover{
+    background-color: rgb(195, 225, 215);
+}
